@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Cantarell:400);
 
 body {
-  background-color: #2d2d2d;
+  background-color: #00437D;
   font-family: 'Cantarell';
   color: white;
   font-weight: 400;
@@ -20,7 +20,7 @@ h1 {
 }
 
 .navigation ul {
-  background-color: #37383a;
+  background-color: #277977;
   cursor: pointer;
   list-style: none;
   padding: 0;
@@ -30,7 +30,7 @@ h1 {
 
 .navigation .header {
   padding: 15px;
-  background-color: #4e5053;
+  background-color: #126573;
 }
 
 .navigation li {
@@ -38,13 +38,13 @@ h1 {
 }
 
 .navigation .selected {
-  background-color: #9061b2;
+  background-color: #80CD7D;
 }
 
 .score {
   font-size: 36px;
   margin: 15px;
-  color: #afb3b9;
+  color: #B7FF94;
 }
 
 .title {
